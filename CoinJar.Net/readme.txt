@@ -1,0 +1,1 @@
+A c# wrapper for most of the critcal coinjar.io bitcoin api calls
